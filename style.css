@@ -128,7 +128,7 @@ header{
     align-items: center;
     justify-content: space-between;
     border-radius: 1.25rem;
-    border: 1px solid var(--card-outline); /* Ensure border is visible */
+    border: 1px solid var(--card-outline);
 
     .logo path:nth-child(2) {
         fill: var(--header-text);
